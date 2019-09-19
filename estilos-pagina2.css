@@ -4,10 +4,28 @@
 }
 .columna{
     text-align: center;
-    display: inline-block;
-   width: 49%; border: 1px solid black;
-   vertical-align: top
+    display: block;
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    vertical-align: top;
+    box-sizing: border-box;
  }
+ .border{
+     border: 10px solid palevioletred;
+     border-radius: 50%;
+     width: 250px;
+     height: 250px;
+     line-height: 250px;
+     text-align: center
+    }
+    .border > p {
+        margin: 0;
+        padding: 0;
+        
+    }
 
-    
+    .clear-fix{
+        clear: both;
+    }
   
