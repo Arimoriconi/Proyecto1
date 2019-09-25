@@ -1,0 +1,22 @@
+.border{
+    width: 35%;
+    height: 35%;
+    float: left;
+    margin: 6px;
+}
+.border2{
+    width: 35%;
+    height: 35%;
+    float: left;
+    margin: 6px;
+}
+.aside{
+    width: 8%;
+    height: 15%;
+    float: right;
+    border: grey, 2px solid;
+    padding: 4px;
+}
+.clearfix{
+    clear: both;
+}

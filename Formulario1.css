@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #76b852;
+}
+form {
+    width: 360px;
+    padding: 45px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.size {
+    box-sizing: border-box;
+    height: 46px;
+    width: 100%;
+    display: inline-block;
+    border: none;
+}
+
+.margin{
+    margin-bottom: 15px;
+}
+
+.inputs{
+    padding-left: 15px;
+    background-color: #f2f2f2;
+}
+
+.button{
+    background-color: #4CAF50;
+    color: white;
+
+}
